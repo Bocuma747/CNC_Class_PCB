@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="70.089111mm"
-   height="71.16787mm"
-   viewBox="0 0 70.089112 71.167869"
+   width="77.122864mm"
+   height="78.241043mm"
+   viewBox="0 0 70.111694 71.128221"
    version="1.1"
    id="svg8"
    inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
@@ -42,11 +42,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.8284271"
-     inkscape:cx="190.74205"
-     inkscape:cy="112.96031"
+     inkscape:zoom="4"
+     inkscape:cx="119.375"
+     inkscape:cy="48.875"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g4588"
      showgrid="false"
      inkscape:window-width="2560"
      inkscape:window-height="1369"
@@ -75,7 +75,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-100.48118,302.10499)">
+     transform="translate(-100.45859,302.06534)">
     <g
        id="g4588"
        transform="translate(-388.50363,24.082576)">
@@ -96,17 +96,18 @@
          id="path1"
          sodipodi:nodetypes="aaaaaassasaaaaaaaaaaaaaa" />
       <circle
-         style="fill:none;stroke:#000000;stroke-width:0.1;stroke-opacity:1"
+         style="fill:none;stroke:#000000;stroke-width:0.107242;stroke-opacity:1"
          id="path2"
          cx="526.25177"
-         cy="-321.01337"
-         r="2.9987884" />
+         cy="-321.20129"
+         r="2.395169" />
     </g>
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer2"
-     inkscape:label="Text">
+     inkscape:label="Text"
+     transform="translate(0.0225943,-0.03964304)">
     <path
        style="display:none;fill:none;stroke:#000000;stroke-width:0.1;stroke-opacity:1"
        d="m 2.0356451,43.822914 c 0.2450315,1.432492 0.4900627,2.864982 1.2628672,4.862956 0.7728045,1.997975 2.0733288,4.561327 4.4954053,7.251988 2.4220764,2.690662 5.9654634,5.508409 9.4666554,7.383879 3.501192,1.87547 6.959766,2.808436 9.994445,3.416314 3.034679,0.607878 5.645102,0.890595 8.345213,0.749228 2.700111,-0.141366 5.489589,-0.7068 8.12844,-1.366512 2.63885,-0.659713 5.126763,-1.413626 7.905364,-2.85833 2.778601,-1.444704 5.847562,-3.580028 8.071737,-5.625137 2.224174,-2.04511 3.603298,-3.999763 4.905492,-6.343696 1.302194,-2.343934 2.527303,-5.076868 3.031512,-7.894784 0.504209,-2.817916 0.287459,-5.720481 -0.673837,-8.576095 -0.961297,-2.855613 -2.667025,-5.66394 -3.896918,-7.445164 -1.229892,-1.781224 -1.98382,-2.535152 -2.737763,-3.289095"

@@ -1,4 +1,4 @@
-26177252284428129
+26182544772874349
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -71491,6 +71491,20 @@ Adafruit_1009_Pushbutton
 4
 4
 My_Library
+BAT-HLD-003-SMT
+
+
+0
+3
+2
+My_Library
+BH-25C-1
+
+
+0
+2
+2
+My_Library
 CT-1212CL-SMT-TR_Buzzer
 
 
@@ -71609,6 +71623,13 @@ PTH_4mmID_6mmOD
 0
 1
 1
+My_Library
+SLW-133538-2A-SMT-TR
+
+
+0
+8
+8
 My_Library
 SOT-223-3
 module CMS SOT223 4 pins
